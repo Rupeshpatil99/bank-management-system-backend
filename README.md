@@ -91,6 +91,4 @@ Rupesh Patil
 
 Skills: Java | JDBC | MySQL | Backend Development
 
-⭐ Support
 
-If you find this project helpful, please ⭐ star the repository.
